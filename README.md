@@ -8,3 +8,6 @@ a collection of learning resources, sources from blogs, twitter, talks etc.
 - [Youtube: Pipenv setup and tutorial](https://www.youtube.com/watch?v=zDYL22QNiWk)
 
 
+
+### NLP
+- [Course on NLP (text based)](https://lena-voita.github.io/nlp_course/word_embeddings.html)
