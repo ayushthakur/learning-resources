@@ -9,5 +9,9 @@ a collection of learning resources, sources from blogs, twitter, talks etc.
 
 
 
+## De-duplication data entries
+- [Hotel De-duplication](https://towardsdatascience.com/de-duplicate-the-duplicate-records-from-scratch-f6e5ad9e79da)
+
+
 ### NLP
 - [Course on NLP (text based)](https://lena-voita.github.io/nlp_course/word_embeddings.html)
