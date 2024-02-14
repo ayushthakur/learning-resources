@@ -15,3 +15,7 @@ a collection of learning resources, sources from blogs, twitter, talks etc.
 
 ### NLP
 - [Course on NLP (text based)](https://lena-voita.github.io/nlp_course/word_embeddings.html)
+
+### Deep Learning 
+- [Dive Deep into Deep Learning](https://d2l.ai/index.html)
+
